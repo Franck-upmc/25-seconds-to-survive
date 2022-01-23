@@ -1,0 +1,9 @@
+Jour : 5
+Informations sur les personnages :
+JP a très soif !
+JP a très faim !
+Laura a très soif !
+Laura a très faim !
+Laura commence a agir étrangement.
+John a très soif !
+John a très faim !
