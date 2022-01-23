@@ -1,0 +1,56 @@
+Il a fallu faire vite pour se réfugier dans le bunker, on retrouve JP, le père. Laura, la fille. John, le fils. 1 boite de nourriture
+1 bouteille d'eau
+1 kit de soin
+1 radio
+1 jeu de societe
+1 livre
+1 fusil
+1 horloge
+JP est parti en expedition avec 1 fusil !
+Jour : 1
+Informations sur les personnages :
+JP est malade !
+JP est toujours en expedition.
+Laura avait soif.
+John avait soif.
+Jour : 2
+Informations sur les personnages :
+JP est malade !
+JP est toujours en expedition.
+Laura avait soif.
+Laura a faim.
+John avait soif.
+John a faim.
+Jour : 3
+Informations sur les personnages :
+JP est malade !
+JP est toujours en expedition.
+Laura a très soif !
+Laura a faim.
+John a très soif !
+John a faim.
+JP est revenu en vie de son expedition qui a duré 4 jours !!!
+L'expedition a été fructueuse : 
++ 2 boite de nourriture
++ 2 bouteille d'eau
++ 1 kit de soin
++ 0 fusil
+Jour : 4
+Informations sur les personnages :
+JP avait soif.
+JP a faim.
+JP est malade !
+Laura a très soif !
+Laura a très faim !
+Laura commence a agir étrangement.
+John a très soif !
+John a très faim !
+Jour : 5
+Informations sur les personnages :
+JP a très soif !
+JP a très faim !
+Laura a très soif !
+Laura a très faim !
+Laura commence a agir étrangement.
+John a très soif !
+John a très faim !
